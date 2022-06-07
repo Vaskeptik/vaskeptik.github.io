@@ -1,2 +1,2 @@
 # Vaskeptik.github.io
-Change iput style
+Меняем стандартные стили инпутов.
